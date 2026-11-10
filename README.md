@@ -3,9 +3,8 @@
 [![Shell](https://img.shields.io/badge/shell-bash-4EAA25)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/platform-linux-blue)](https://www.kernel.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-<p align="center">
-    <a href="https://linux.do" alt="LINUX DO"><img src="https://shorturl.at/ggSqS" /></a>
-</p>
+<a href="https://linux.do" alt="LINUX DO"><img src="https://shorturl.at/ggSqS" /></a>
+
 
 
 
